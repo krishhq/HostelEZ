@@ -1,0 +1,7 @@
+{
+  "name": "HostelEase - Smart Management System",
+  "description": "A comprehensive hostel management application with role-based access for residents, admins, and guardians. Features include GPS-verified attendance, mess management with meal skipping, complaint tracking, and multi-level leave approvals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
